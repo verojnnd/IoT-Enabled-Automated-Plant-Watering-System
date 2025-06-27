@@ -1,8 +1,13 @@
 This 1-week project develops an automated plant watering system using ESP8266 technology for monitoring soil moisture across five different crop types: 
+
 🌶️ Chili Peppers 
+
 🌽 Corn
+
 🍉 Watermelon
+
 🌿 Grass
+
 🧅 Onions
 
 The system uses a 1.3" OLED display to provide user interface and crop selection, allowing precise monitoring of soil conditions. Through pushbutton controls, users can select a specific crop and view its moisture levels in real-time. The device connects to a Blynk IoT dashboard, enabling remote monitoring and automated irrigation. When soil moisture falls below a crop-specific threshold, a mini submersible pump activates to water the plants, ensuring optimal growing conditions. A reset button allows easy switching between different crop types. Powered by a rechargeable VTC6 battery for ESP8266 and a 9V battery for the pump, the system offers a practical solution for maintaining consistent plant care with minimal manual intervention.
